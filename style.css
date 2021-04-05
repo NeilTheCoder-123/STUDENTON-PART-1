@@ -1,0 +1,84 @@
+body {
+    text-align: center;
+
+}
+
+#welcome {
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+#footer {
+    height: 20px;
+    background-color: white;
+}
+
+#map iframe {
+    width: 50%;
+    float: center;
+    padding-top: 5px;
+}
+
+#contact {
+    background-image: linear-gradient(pink, lavender, yellow);
+}
+
+h1 {
+    text-align: center;
+}
+
+.map iframe {
+    width: 30%;
+    float: left;
+    padding-top: 5px;
+}
+.container {
+    text-align: center;
+    width: auto;
+}
+
+#contact iframe {
+    width: auto;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+#marqueeStyle {
+    background-color: antiquewhite;
+    color: crimson;
+}
+
+
+
+
+
+
+
+
+
+.module {
+    max-width: 250px;
+    padding: 1rem;
+    color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-image:
+        linear-gradient(to bottom,
+            red,
+            rgba(0, 0, 0, 0)) 1 100%;
+}
+
